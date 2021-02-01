@@ -1,0 +1,30 @@
+{
+  "name": "kise-gif-bot-v12",
+  "version": "0.0.1",
+  "description": "kise-gif-bot-v12",
+  "main": "kise.js",
+  "scripts": {
+    "start": "node kise.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "discord-logs": "^1.9.0",
+    "discord.js": "^12.5.0",
+    "discord.js-commando": "^0.10.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.2",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

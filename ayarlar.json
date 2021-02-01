@@ -1,0 +1,26 @@
+{
+  "prefix": ".",
+  "sahip": "SAHIPID",
+  "token": "TOKEN",
+
+
+  "footer": "BAZI KOMUTLRAIN FOOTERI BURDAN CEKILIYOR",
+  "enaltyetkili": "EN ALT YETKILI ROLÜ",
+  "boosterRol": "BOOSTER ROL ID",
+ 
+  "redemoji": " <a:EMOJIAD:EMOJIID> ŞEKLİNDE YAZILICAK  ",
+  "onayemoji": "<a:EMOJIAD:EMOJIID> ŞEKLİNDE YAZILICAK",
+ 
+  "levelkanal": "LEVEL KANAL ID",
+  "uyerol": "GELEN UYEYE VERILICEK ROL ID",
+  "voiceC": "BOTUN GIRECEGI SES KANALI",
+
+
+  "level5": "LEVEL ROLLERI",
+  "level10": "LEVEL ROLLERI",
+  "level15": "LEVEL ROLLERI",
+  "level20": "LEVEL ROLLERI",
+  "level25": "LEVEL ROLLERI",
+  "level30": "LEVEL ROLLERI"
+
+}
